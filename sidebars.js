@@ -14,12 +14,12 @@ const sidebars = {
         //keywords: ['人物传记'],
       },
       items: [
-        'wangzhuzi/houting/BDSM灌肠器道具教学分享',
-        'wangzhuzi/houting/基本元器件-电容',
-        'wangzhuzi/houting/论文工具收集',
-        'wangzhuzi/houting/基本元器件-电感与磁珠',
-        'wangzhuzi/houting/基本元器件-二极管',
-        'wangzhuzi/houting/基本元器件-晶体三级管',
+        'china/renwu/BDSM灌肠器道具教学分享',
+        'china/renwu/基本元器件-电容',
+        'china/renwu/论文工具收集',
+        'china/renwu/基本元器件-电感与磁珠',
+        'china/renwu/基本元器件-二极管',
+        'china/renwu/基本元器件-晶体三级管',
       ],
     },
 
