@@ -14,7 +14,7 @@ const sidebars = {
         //keywords: ['人物传记'],
       },
       items: [
-        'china/renwu/《戴笠》',
+        'china/renwu/戴笠',
       ],
     },
 
