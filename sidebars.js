@@ -1,17 +1,17 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
 
-  王竹子: [
+  中国书: [
     'Home',
 
     {
       type: 'category',
       label: '竹子后庭玩法教学系列',
       link: {
-        slug: '/王竹子',
+        slug: '/中国书',
         type: 'generated-index',
         //description: '',
-        //keywords: ['王竹子', '竹子后庭玩法教学系列', '电阻', '电容', '电感', '磁珠', '二极管', '三极管', 'MOS', '运算放大器', '数字电路', '设计规范', '推挽开漏', '共模差模', '储存介质', '锂电池', '编码器'],
+        //keywords: ['中国书', '竹子后庭玩法教学系列', '电阻', '电容', '电感', '磁珠', '二极管', '三极管', 'MOS', '运算放大器', '数字电路', '设计规范', '推挽开漏', '共模差模', '储存介质', '锂电池', '编码器'],
       },
       items: [
         'wangzhuzi/houting/BDSM灌肠器道具教学分享',
@@ -102,13 +102,13 @@ const sidebars = {
 
 
 
-  醉轻舟: [
+  美国书: [
 
     {
     type: 'category',
     label: '女优介绍',
     link: {
-      slug: '/醉轻舟',
+      slug: '/美国书',
       type: 'generated-index',
       //description: 'describtion to be updated',
       //keywords: ['x', 'x'],
@@ -293,11 +293,11 @@ const sidebars = {
   ],
 
 
-  效率指南: [{
+  俄罗斯书: [{
     type: 'category',
     label: '机器人队行政',
     link: {
-      slug: '/效率指南',
+      slug: '/俄罗斯书',
       type: 'generated-index',
       //description: 'describtion to be updated',
       //keywords: ['x', 'x'],
