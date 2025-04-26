@@ -61,7 +61,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/linyuxuanlin/Wiki_Docusaurus/edit/main/',
-          sidebarCollapsible: false, //默认折叠
+          sidebarCollapsible: true, //默认折叠
           routeBasePath: "/",
           showLastUpdateTime: false,
           showLastUpdateAuthor: false,
@@ -168,21 +168,20 @@ const config = {
 
         items: [
           {
-            to: "王竹子",
-            label: "王竹子",
+            to: "中国书",
+            label: "中国书",
             position: "right",
           },
           {
-            to: "醉轻舟",
-            label: "醉轻舟",
+            to: "美国书",
+            label: "美国书",
             position: "right",
           },
           {
-            to: "效率指南",
-            label: "效率指南",
+            to: "俄罗斯书",
+            label: "俄罗斯书",
             position: "right",
           },
-
           {
             to: "blog",
             label: "博客",
@@ -190,7 +189,7 @@ const config = {
           },
 
           {
-            href: "https://github.com/linyuxuanlin/Wiki_Docusaurus",
+            href: "https://github.com/zuqiuxie/books",
             position: "right",
             className: "header-github-link",
             'aria-label': "GitHub repository",
@@ -212,7 +211,7 @@ const config = {
             label: "友链 & 导航站",
           },
           {
-            href: "http://digest.wiki-power.com/",
+            href: "https://books.wangbin.run/",
             label: "书摘",
           },
           {
