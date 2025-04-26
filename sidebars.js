@@ -74,11 +74,7 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
-      'zuiqingzhou/nvyoujieshao/双系统极简安装指南',
-      'zuiqingzhou/nvyoujieshao/网页版串口助手的开发',
-      'zuiqingzhou/nvyoujieshao/Ubuntu配置笔记',
-      'zuiqingzhou/nvyoujieshao/ROS入门笔记',
-      'zuiqingzhou/nvyoujieshao/机器视觉入门',
+      'usa/renwu/双系统极简安装指南',
     ],
   },
 
