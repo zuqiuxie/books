@@ -61,7 +61,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/linyuxuanlin/Wiki_Docusaurus/edit/main/',
-          sidebarCollapsible: true, //默认折叠
+          sidebarCollapsible: false, //默认折叠
           routeBasePath: "/",
           showLastUpdateTime: false,
           showLastUpdateAuthor: false,
