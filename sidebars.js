@@ -6,12 +6,12 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '竹子后庭玩法教学系列',
+      label: '人物传记',
       link: {
         slug: '/中国书',
         type: 'generated-index',
         //description: '',
-        //keywords: ['中国书', '竹子后庭玩法教学系列', '电阻', '电容', '电感', '磁珠', '二极管', '三极管', 'MOS', '运算放大器', '数字电路', '设计规范', '推挽开漏', '共模差模', '储存介质', '锂电池', '编码器'],
+        //keywords: ['人物传记'],
       },
       items: [
         'wangzhuzi/houting/BDSM灌肠器道具教学分享',
@@ -25,11 +25,11 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '竹子的专业绳缚教学',
+      label: '职场工作',
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['竹子的专业绳缚教学', '协议', ],
+        //keywords: ['职场工作'],
       },
       items: [
         'wangzhuzi/shengfu/RobotCtrl-STM32通用开发套件',
@@ -45,11 +45,11 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '王竹子的SM教学',
+      label: '文学',
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['王竹子的SM教学', 'USB', ],
+        //keywords: ['文学'],
       },
       items: [
         'wangzhuzi/sm/TinyDVR-小巧身材，满载动力',
@@ -81,11 +81,11 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '竹子的生活分享频道',
+      label: '历史',
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['竹子的生活分享频道', 'USB',],
+        //keywords: ['历史书籍'],
       },
       items: [
         'wangzhuzi/shenghuo/通信协议-数字逻辑电平',
