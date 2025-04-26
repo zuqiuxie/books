@@ -8,9 +8,9 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SM Wiki',
+  title: '书摘',
   tagline: '^_^',
-  url: 'https://sm.zhihu.blog',
+  url: 'https://book.wangbin.run',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -156,7 +156,7 @@ const config = {
       },
 
       navbar: {
-        title: 'SM Wiki',
+        title: '书摘',
         hideOnScroll: true,
         /*
         logo: {
