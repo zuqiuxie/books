@@ -53,7 +53,7 @@ const sidebars = {
         //keywords: ['历史书籍'],
       },
       items: [
-        'china/lishi/通信协议-数字逻辑电平',
+        'china/lishi/大秦风云',
       ],
     },
 
